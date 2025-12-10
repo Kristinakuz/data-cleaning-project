@@ -1,0 +1,21 @@
+﻿Order ID,Customer Name,Email,Phone Number,Order Date,State,Product,Quantity,Unit Price,Total Amount,Payment Method
+1001,KRISTINA KUZMANOVSKI,kristinagmail.com,2485550192,1/7/25,Michigan,Hoodie,2,$25 ,40,visa
+1001,Kristina kuzmanovski,kristina@@gmail.com,(248)555-0192,1/7/25,MI,Hoodie,2,25,50,Visa Card
+1002,john doe,johndoe@@yahoo.com,248.555.0194,1/8/25,mi,Water Bottle,1,$12.00 ,12,MC
+1003,,sarah.smith@gmailcom,734-5558888,01.08.25,Ohio,Backpack,1,$45 ,45,mastercard
+1004,Maria Lopez,maria.lopez@hotmail..com,N/A,13/01/2025,OH,Charging Cable,three,$10 ,30,visa
+1005,Ali Rahman,ali.r@hotmail.com,5175551234,1/5/25,OHIO,Hoodie,1,($10),-10,amex
+1006,bob jones,bob.jones@gmail.com,248 555 1000,1/11/25,Illinois,Laptop Case,1,30,30,vsa
+1007,Jane Stone,janestone@gmail.com,248-555-7777,1/12/25,IL,Headphones,2,$20 ,25,VISA
+1008,MIKE BROWN,mikebrown@gmail,2485553333,1.12.25,mi,Water BTL,1,$12 ,12,mc
+1009,Sarah Smith,sarah.smith@gmail.com,7345558888,1/10/25,ohio,Backpack,1,45,40,Master Card
+1010,,noemail,unknown,1/15/25,MI,Hoodie,1,$25 ,25,
+1011,John Doe,john.doe@gmail.com,248.5550194,1/8/25,MI,Water Bottle,2,$12 ,20,MC
+1012,jane stone,janestone@gmail..com,248-5557777,1/12/25,Il,Head Phones,1,$20 ,20,visa
+1013,mike Brown,mikebrown@gmail.com,,2025.01.12,MI,Water Bottle,1,12,10,Visa
+1014,ali RahMan,ali.r@hotmailcom,517-555-1234,1/5/25,MI,hoodie,2,$25 ,20,AMEX
+1015,sarah smith,sarah.smith@gmail.com,734.555.8888,1/10/25,MI,Back Pack,1,$45 ,45,Mc
+1016,Kristina K,kristina.k@gmail.com,2485550192,1/7/25,MICH,Hoodie,2,$25 ,60,Visa
+1017,john doe,johndoe@yahoo.com,248-555-0194,1/8/25,mi,charging cable,1,$10 ,10,mc
+1018,Maria Lopez,maria.lopez@hotmail.com,,1/9/25,OH,WATER BOTTLE,1,$12 ,12,
+1019,Bob Jones,bob.j@gmail.com,2485551000,1/12/25,Illinois,LaptopCase,1,$30 ,30,VIsa
