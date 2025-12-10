@@ -7,3 +7,17 @@ notebooks/          → Jupyter notebooks used for exploratory cleaning and anal
 excel/              → Excel cleaning work, formulas, and Power Query steps <br>
 documentation/      → Data quality report, cleaning rules, issue logs, screenshots <br>
 scripts/            → Python scripts for automated data cleaning <br>
+## Tools and File Formats Used
+### Tools Used
+Excel - for manual cleaning, formulas and Power Query <br>
+Python (pandas) - For programmatic cleaning of small and large datasets <br>
+Jupyter Notebooks - To display code, output and explanations together <br>
+Git & Github - For version control and organizing the project
+<br>
+### File Formats
+CSV - Raw and cleaned datasets <br>
+XLSX - Excel-based cleaning and formula work <br>
+IPYNB - Python cleaning workflows <br>
+PY - Automation scripts
+MD - Documentation and reports <br>
+PNG - Screenshots for visual documentation
