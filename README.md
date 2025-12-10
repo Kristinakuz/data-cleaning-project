@@ -21,3 +21,17 @@ IPYNB - Python cleaning workflows <br>
 PY - Automation scripts
 MD - Documentation and reports <br>
 PNG - Screenshots for visual documentation
+## Real-World Data Issue Addressed
+This project intentionally includes a wide range of common data problems frequently found in retail and business datasets. These include:
+
+Duplicate records <br>
+Inconsistent name formatting <br>
+Invalid or malformed email addresses <br>
+Multiple phone number formats and missing values <br>
+Mixed and incorrect date formats <br>
+Inconsistent state abbreviations and casing <br>
+Numerical errors such as text-based values, negative totals, or mismatched calculations <br>
+Payment method inconsistencies across categories <br>
+Missing values across multiple fields <br>
+
+The purpose is to simulate the type of messy real-world data that analysts clean every day and demonstrate the tools and logic required to transform it into a usable dataset.
