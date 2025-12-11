@@ -101,7 +101,7 @@ During profiling, the following issues were found:
   - State abbreviations, product naming, payment method mapping
   #### Final Replacement
   - After validating helper columns, cleaned values were pasted back as values into original columns.
-## Final cleaned Fields
+## Final Cleaned Fields
 The final dataset includes: <br>
 - Cleaned Customer Name
 - Cleaned Email
@@ -113,5 +113,12 @@ The final dataset includes: <br>
 - Numeric Unit Price
 - Corrected Total Amount
 - Standardized Payment Method
+## Skills Demonstrated
+- Data profiling
+- Text normalization
+- Data validation
+- Standardization workflows
+- Reconciliation & recalculation
+- Documentation of a reproducible cleaning process
   
   
